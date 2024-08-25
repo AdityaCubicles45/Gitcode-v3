@@ -66,8 +66,7 @@ export const Navbar = () => {
                       <Link key={index} href="/" className="w-full px-4 py-2 -ml-4 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 dark:focus:bg-gray-800 focus:outline-none">
                           {item}
                       </Link>
-                    ))}
-                    <Header />         
+                    ))}        
                   </>
                 </Disclosure.Panel>
               </div>
@@ -88,13 +87,12 @@ export const Navbar = () => {
           </ul>
         </div>
 
-        <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <Link href="/" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
-              Get Started
-          </Link>
+        <Header className="hidden mr-3 space-x-4 lg:flex nav__item" />
+          {/* <Link href="/" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
+              Connect Wallet
+          </Link> */}
 
           <ThemeChanger />
-        </div>
       </nav>
     </div>
   );
