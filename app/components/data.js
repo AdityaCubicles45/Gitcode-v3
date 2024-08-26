@@ -11,46 +11,46 @@ import benefitOneImg from "../../public/img/benefit-one.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Benefits for developers",
+  desc: "Get rewarded for your open-source contributions, even if your PR isn't merged. Showcase your skills and build your portfolio by solving real-world problems. Our AI-powered system ensures fair competition and eliminates AI-generated solutions.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Fair Rewards: ",
+      desc: "Earn rewards for your open-source contributions, regardless of PR acceptance.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Showcase Skills: ",
+      desc: "Build your portfolio and gain recognition by contributing to real-world projects.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Transparent Competition: ",
+      desc: "Focus on your coding skills, not competing with AI-generated solutions.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Benefits for project owners, startups and enterprises",
+  desc: "Find top developers and crowdsource solutions cost-effectively. Our AI filtering ensures genuine contributions, protecting your project from AI-generated code. Accelerate your development and achieve your goals with Git-Code",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Find Talented Developers: ",
+      desc: "Access a pool of skilled developers and find the perfect fit for your project.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Crowdsource Solutions Cost-Effectively",
+      desc: "Save time and money by crowdsourcing solutions to your coding challenges.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Ensure Genuine Contributions with AI Filtering: ",
+      desc: "Protect your project from AI-generated code and ensure quality contributions.",
       icon: <SunIcon />,
     },
   ],
