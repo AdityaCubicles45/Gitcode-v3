@@ -9,7 +9,7 @@ import { WalletSelector } from "@aptos-labs/wallet-adapter-ant-design";
 export const Header =  (props: Props) => {
 const {account} = useWallet();
   return (
-    <header className="right-0 left-100 top-0 py-4 px-4 bg-black/40 backdrop-blur-lg z-[100] flex items-center border-b-[1px] border-neutral-900 justify-between">
+    <header className="right-0 left-90 top-0 py-4 px-4 bg-black/40 backdrop-blur-lg z-[100] flex items-center border-b-[1px] border-neutral-900 justify-between">
       {/* // Code for the header goes here */}
       
       <aside className="">
