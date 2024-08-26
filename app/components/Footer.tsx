@@ -24,31 +24,14 @@ export function Footer() {
                   height="32"
                   className="w-8"
                 />
-                <span>Nextly</span>
+                <span>Gitcode-v3</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website template for
-              startups and indie projects. Its built with Next.js & TailwindCSS.
-              And its completely open-source.
-            </div>
-
-            <div className="mt-5">
-              <a
-                href="https://vercel.com/?utm_source=web3templates&utm_campaign=oss"
-                target="_blank"
-                rel="noopener"
-                className="relative block w-44"
-              >
-                <Image
-                  src="/img/vercel.svg"
-                  alt="Powered by Vercel"
-                  width="212"
-                  height="44"
-                />
-              </a>
-            </div>
+            Join a global community where your contibutions shape the future of the open source.
+            Decentralized, transperant, and powered by collaboration.
+            </div>  
           </div>
 
           <div>
@@ -114,13 +97,10 @@ export function Footer() {
 
         <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
           Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
-          <a href="https://web3templates.com/" target="_blank" rel="noopener">
-            Web3Templates.
+          <a href="https://github.com/AdityaCubicles45/Gitcode-v3" target="_blank" rel="noopener">
+            ENGENEERIANS.
           </a>{" "}
-          Illustrations from{" "}
-          <a href="https://www.glazestock.com/" target="_blank" rel="noopener ">
-            Glazestock
-          </a>
+         
         </div>
       </Container>
     </div>
