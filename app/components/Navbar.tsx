@@ -76,7 +76,7 @@ export const Navbar = () => {
       {/* Mobile view: Show centered links below the Navbar when "Dashboard" is clicked */}
       {showLinks && (
         <div className="md:hidden flex justify-center space-x-6 mt-4">
-          <Link href="/company" className="text-lg font-medium text-gray-700 dark:text-gray-200">
+          <Link href="/dashboard" className="text-lg font-medium text-gray-700 dark:text-gray-200">
             Company
           </Link>
           <Link href="/dev" className="text-lg font-medium text-gray-700 dark:text-gray-200">
