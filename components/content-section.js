@@ -9,7 +9,7 @@ export default function ContentSection() {
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
               <p className="text-base font-semibold leading-7 text-green-600">
-                GitCode-v2
+                GitCode-v3
               </p>
               <h1 className="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">
                 Get Paid for your Git contributions!
@@ -43,11 +43,11 @@ export default function ContentSection() {
           <div className="lg:pr-4">
             <div className="max-w-xl text-base leading-7 lg:max-w-lg">
               <p>
-                Welcome to GitCode-v2, where your Git contributions are truly
+                Welcome to GitCode-v3, where your Git contributions are truly
                 valued and rewarded. We aim to revolutionize the way open-source
                 contributors earn recognition and compensation for their
                 valuable work. Say goodbye to manual processes and delayed
-                payments. With GitCode-v2, you can effortlessly earn what you
+                payments. With GitCode-v3, you can effortlessly earn what you
                 deserve. Our seamless integration with GitHub and automated
                 payment system, code verification and commit evaluation using
                 Chainlink Functions, ensures that you get paid for your valuable

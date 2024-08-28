@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 md:order-1 md:mt-0">
           <p className="text-xs leading-5 text-center">
-            &copy; 2023 GitCode-v2
+            &copy; 2024 GitCode-v3
           </p>
         </div>
       </div>

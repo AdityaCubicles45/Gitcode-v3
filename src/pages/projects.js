@@ -20,11 +20,11 @@ function classNames(...classes) {
 const projects = [
   {
     id: 1,
-    name: 'wagmi-dev/wagmi',
-    image: 'projects/wagmi.svg',
-    description: 'React Hooks for Ethereum',
-    stars: '4.5k',
-    githubLink: 'https://github.com/wagmi-dev/wagmi',
+    name: 'aptos-labs/aptos-core',
+    image: 'projects/aptos.png',
+    description: 'Aptos L1 Blockchain Core',
+    stars: '6k',
+    githubLink: 'https://github.com/aptos-labs/aptos-core',
   },
   {
     id: 2,

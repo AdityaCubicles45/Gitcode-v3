@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Gitode-v3</h1>
+    <h1>Gitode-v2</h1>
     <strong>Tech stack: Next.js 13, React, Tailwind, ICP, Chainlink</strong>
 </div>
 <br>
@@ -10,13 +10,13 @@
      <a href="https://gitpod.io/#">
         <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
     </a>
-     <a href="https://twitter.com/adityastwt18">
-        <img src="https://img.shields.io/twitter/follow/adityastwt18?style=social" alt="Aaditya Singh Twitter">
+     <a href="https://twitter.com/Aditya04183">
+        <img src="https://img.shields.io/twitter/follow/Aditya04183?style=social" alt="Aaditya Singh Twitter">
     </a>
 </div>
 <div align="center">
     <br>
-    <a href="https://www.adityastwt.tech/"><b>Visit »</b></a>
+    <a href="https://www.adityasingh.live/"><b>Visit »</b></a>
     <br>
    
 </div>

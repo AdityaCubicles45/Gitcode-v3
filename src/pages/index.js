@@ -32,7 +32,8 @@ export default function Index() {
 
         <div className="fixed inset-0 z-10 flex flex-col items-center justify-center">
           <div>
-            <h1 className="text-5xl text-center">Welcome to GitCode-v2</h1>
+            <h1 className="text-5xl text-center">Welcome to GitCode-v3</h1>
+            <h4 className="text-2xl text-center">Coming Soon...</h4>
           </div>
           <div className="flex mt-4 space-x-2">
             <Link

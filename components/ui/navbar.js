@@ -99,7 +99,7 @@ export default function Navbar() {
                 className="w-6 h-6 mr-1"
                 aria-hidden="true"
               />
-              GitCode-v2
+              GitCode-v3
             </h1>
           </Link>
         </div>
@@ -212,7 +212,7 @@ export default function Navbar() {
         <Dialog.Panel className="fixed inset-y-0 right-0 z-10 w-full px-6 py-6 overflow-y-auto bg-white dark:bg-black sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
             <Link href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">GitCode-v2</span>
+              <span className="sr-only">Gitcode-v3</span>
             </Link>
             <button
               type="button"

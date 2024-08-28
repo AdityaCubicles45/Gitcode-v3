@@ -1,0 +1,24 @@
+[package]
+name = "Project"
+version = "0.0.1"
+authors = ["Aaditya Singh <your.email@example.com>"]  # Replace with your email
+license = "Apache-2.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+
+[addresses]
+# Replace this with the actual address where the module will be deployed.
+Project = "0x92f57e26b6b6cb1c9e699c794cefb48bbb7c0267a7e4e2e397b2253c5b10dd51"
+
+[dev-addresses]
+# For testing purposes, you can use a local address.
+default = "0x1"
+
+[build]
+# Directory where the compiled Move bytecode will be stored.
+output_dir = "build"
+
+[testing]
+# Directory where Move tests are stored.
+test_dir = "tests"

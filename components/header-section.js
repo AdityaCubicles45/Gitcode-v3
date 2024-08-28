@@ -36,7 +36,7 @@ const cards = [
       </div>
     ),
     description:
-      "GitCode-v2 ensures equitable fund distribution by dynamically allocating the daily project balance among contributors. Using our commit evaluation engine, contributions are evaluated for impact and quality, determining each contributor's weight. This innovative approach guarantees fair distribution of funds based on their valuable contributions.",
+      "GitCode-v3 ensures equitable fund distribution by dynamically allocating the daily project balance among contributors. Using our commit evaluation engine, contributions are evaluated for impact and quality, determining each contributor's weight. This innovative approach guarantees fair distribution of funds based on their valuable contributions.",
   },
 ];
 const fadeIn = {

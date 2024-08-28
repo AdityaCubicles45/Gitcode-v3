@@ -6,11 +6,11 @@ export default function ContactMe() {
           <div className="grid grid-cols-1 gap-x-8 gap-y-10 lg:grid-cols-3">
             <div>
               <h2 className="text-3xl font-bold tracking-tight ">
-                Stay Updated with GitCode-v2!
+                Stay Updated with GitCode-v3!
               </h2>
               <p className="mt-4 leading-7 text-gray-600 dark:text-[#999]">
                 Stay connected and receive the latest updates about
-                GitCode-v2&apos;s development and new features.
+                GitCode-v3&apos;s development and new features.
               </p>
             </div>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:col-span-2 lg:gap-8">
