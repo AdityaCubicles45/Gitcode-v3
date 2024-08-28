@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+    <h1>Gitode-v2</h1>
+    <strong>Tech stack: Next.js 13, React, Tailwind, ICP, Chainlink</strong>
+</div>
+<br>
+<div align="center">
+    <a href="">
+        <img src="https://therealsujitk-vercel-badge.vercel.app/?app=gitcode-v2" alt="Vercel">
+    </a>
+     <a href="https://gitpod.io/#">
+        <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
+    </a>
+     <a href="https://twitter.com/Aditya04183">
+        <img src="https://img.shields.io/twitter/follow/Aditya04183?style=social" alt="Aaditya Singh Twitter">
+    </a>
+</div>
+<div align="center">
+    <br>
+    <a href="https://www.adityasingh.live/"><b>Visit »</b></a>
+    <br>
+   
+</div>
 
 ## Getting Started
 
@@ -10,8 +31,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
