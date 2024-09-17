@@ -46,7 +46,7 @@ export default function Index() {
               </div>
             </Link>
             <Link
-              href="/bounties"
+              href="/bountiess"
               className="rounded-md bg-[#fafafa] dark:bg-white/10 px-3.5 py-2.5 text-sm font-semibold text-black dark:text-white shadow-sm hover:bg-white/80 dark:hover:bg-white/20"
             >
               Contribute
