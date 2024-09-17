@@ -7,7 +7,7 @@ import { Source_Code_Pro } from 'next/font/google';
 import Navbar from '@/components/ui/navbar';
 
 const sourceCodePro = Source_Code_Pro({
-  weight: '400',
+  weight: '900',
   subsets: ['latin'],
 });
 
